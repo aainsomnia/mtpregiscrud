@@ -17,7 +17,7 @@ class RouteServiceProvider extends ServiceProvider
      *
      * @var string
      */
-    public const HOME = 'https://tinyurl.com/spesialadsOKP';
+    public const HOME = 'https://tinyurl.com/spesialadsMTP';
 
     /**
      * The controller namespace for the application.
